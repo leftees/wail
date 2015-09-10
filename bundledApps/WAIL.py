@@ -1,7 +1,5 @@
 # For a more asynchronous UI, esp with accessible()s
 
-#  from pync import Notifier # OS X notifications
-
 WAIL_VERSION = "1.0"
 
 ###############################
