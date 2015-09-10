@@ -1,5 +1,3 @@
-from subprocess import Popen, PIPE
-
 # For a more asynchronous UI, esp with accessible()s
 from multiprocessing import Pool as Thread
 import logging
