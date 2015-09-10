@@ -1,5 +1,3 @@
-# For a more asynchronous UI, esp with accessible()s
-
 msg_stoppingTomcat = "Stopping Tomcat..."
 msg_startingTomcat = "Starting Tomcat..."
 msg_waybackEnabled = "Currently Enabled"
