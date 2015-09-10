@@ -1,6 +1,3 @@
-
-
-
 import waybackConfigWriter
 from subprocess import Popen, PIPE
 
