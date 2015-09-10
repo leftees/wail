@@ -1,4 +1,3 @@
-import waybackConfigWriter
 from subprocess import Popen, PIPE
 
 # For a more asynchronous UI, esp with accessible()s
