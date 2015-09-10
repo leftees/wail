@@ -1,7 +1,5 @@
 # For a more asynchronous UI, esp with accessible()s
 
-WAIL_VERSION = "1.0"
-
 ###############################
 # Platform independent Messages
 ###############################
