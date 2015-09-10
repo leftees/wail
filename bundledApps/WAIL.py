@@ -1,6 +1,6 @@
 
 
-# from wx import *
+
 import waybackConfigWriter
 from subprocess import Popen, PIPE
 
