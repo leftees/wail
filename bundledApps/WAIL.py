@@ -1,14 +1,4 @@
 # For a more asynchronous UI, esp with accessible()s
-import logging
-import requests
-import threading  # Necessary for polling/indexing
-import thread  # For a more responsive UI
-from requests.auth import HTTPDigestAuth
-
-import wxversion
-
-import tarfile  # For updater
-
 ssl._create_default_https_context = ssl._create_unverified_context
 
 #  from pync import Notifier # OS X notifications
