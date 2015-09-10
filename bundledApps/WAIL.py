@@ -1,5 +1,4 @@
 # For a more asynchronous UI, esp with accessible()s
-from multiprocessing import Pool as Thread
 import logging
 import requests
 import threading  # Necessary for polling/indexing
