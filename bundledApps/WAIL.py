@@ -1,5 +1,4 @@
 # For a more asynchronous UI, esp with accessible()s
-ssl._create_default_https_context = ssl._create_unverified_context
 
 #  from pync import Notifier # OS X notifications
 
